@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/sunupi/Projects/tf_overview/basic_regressor_v1.tflearn"
+all_model_checkpoint_paths: "/Users/sunupi/Projects/tf_overview/basic_regressor_v1.tflearn"
